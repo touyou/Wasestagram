@@ -12,6 +12,18 @@
 		464CB82C2069E0FF00ED70A5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 464CB82A2069E0FF00ED70A5 /* Main.storyboard */; };
 		464CB82E2069E0FF00ED70A5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 464CB82D2069E0FF00ED70A5 /* Assets.xcassets */; };
 		464CB8312069E0FF00ED70A5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 464CB82F2069E0FF00ED70A5 /* LaunchScreen.storyboard */; };
+		464CB8392069E20D00ED70A5 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 464CB8382069E20D00ED70A5 /* logo.png */; };
+		464CB83D206A0B4F00ED70A5 /* message.png in Resources */ = {isa = PBXBuildFile; fileRef = 464CB83A206A0B4F00ED70A5 /* message.png */; };
+		464CB83E206A0B4F00ED70A5 /* camera.png in Resources */ = {isa = PBXBuildFile; fileRef = 464CB83B206A0B4F00ED70A5 /* camera.png */; };
+		464CB841206A0C2F00ED70A5 /* bar.png in Resources */ = {isa = PBXBuildFile; fileRef = 464CB840206A0C2F00ED70A5 /* bar.png */; };
+		464CB845206A103C00ED70A5 /* action.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 464CB844206A103C00ED70A5 /* action.jpeg */; };
+		464CB853206A866E00ED70A5 /* UIView+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 464CB847206A866E00ED70A5 /* UIView+Extensions.swift */; };
+		464CB857206A866E00ED70A5 /* UIApplication+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 464CB84B206A866E00ED70A5 /* UIApplication+Extensions.swift */; };
+		464CB858206A866E00ED70A5 /* UIAlertController+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 464CB84C206A866E00ED70A5 /* UIAlertController+Extensions.swift */; };
+		464CB860206A8E8A00ED70A5 /* TextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 464CB85F206A8E8A00ED70A5 /* TextViewController.swift */; };
+		464CB865206A8EED00ED70A5 /* Reusable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 464CB862206A8EED00ED70A5 /* Reusable.swift */; };
+		464CB866206A8EED00ED70A5 /* NibLoadable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 464CB863206A8EED00ED70A5 /* NibLoadable.swift */; };
+		464CB867206A8EED00ED70A5 /* StoryboardInstantiable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 464CB864206A8EED00ED70A5 /* StoryboardInstantiable.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +34,18 @@
 		464CB82D2069E0FF00ED70A5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		464CB8302069E0FF00ED70A5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		464CB8322069E0FF00ED70A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		464CB8382069E20D00ED70A5 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		464CB83A206A0B4F00ED70A5 /* message.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = message.png; sourceTree = "<group>"; };
+		464CB83B206A0B4F00ED70A5 /* camera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = camera.png; sourceTree = "<group>"; };
+		464CB840206A0C2F00ED70A5 /* bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bar.png; sourceTree = "<group>"; };
+		464CB844206A103C00ED70A5 /* action.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = action.jpeg; sourceTree = "<group>"; };
+		464CB847206A866E00ED70A5 /* UIView+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Extensions.swift"; sourceTree = "<group>"; };
+		464CB84B206A866E00ED70A5 /* UIApplication+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIApplication+Extensions.swift"; sourceTree = "<group>"; };
+		464CB84C206A866E00ED70A5 /* UIAlertController+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIAlertController+Extensions.swift"; sourceTree = "<group>"; };
+		464CB85F206A8E8A00ED70A5 /* TextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextViewController.swift; sourceTree = "<group>"; };
+		464CB862206A8EED00ED70A5 /* Reusable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Reusable.swift; sourceTree = "<group>"; };
+		464CB863206A8EED00ED70A5 /* NibLoadable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NibLoadable.swift; sourceTree = "<group>"; };
+		464CB864206A8EED00ED70A5 /* StoryboardInstantiable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoryboardInstantiable.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +78,42 @@
 		464CB8252069E0FF00ED70A5 /* Wasestagram */ = {
 			isa = PBXGroup;
 			children = (
+				464CB861206A8EED00ED70A5 /* Protocols */,
+				464CB846206A866E00ED70A5 /* Extensions */,
+				464CB844206A103C00ED70A5 /* action.jpeg */,
+				464CB8382069E20D00ED70A5 /* logo.png */,
+				464CB840206A0C2F00ED70A5 /* bar.png */,
+				464CB83B206A0B4F00ED70A5 /* camera.png */,
+				464CB83A206A0B4F00ED70A5 /* message.png */,
 				464CB8262069E0FF00ED70A5 /* AppDelegate.swift */,
 				464CB8282069E0FF00ED70A5 /* ViewController.swift */,
 				464CB82A2069E0FF00ED70A5 /* Main.storyboard */,
 				464CB82D2069E0FF00ED70A5 /* Assets.xcassets */,
 				464CB82F2069E0FF00ED70A5 /* LaunchScreen.storyboard */,
 				464CB8322069E0FF00ED70A5 /* Info.plist */,
+				464CB85F206A8E8A00ED70A5 /* TextViewController.swift */,
 			);
 			path = Wasestagram;
+			sourceTree = "<group>";
+		};
+		464CB846206A866E00ED70A5 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				464CB847206A866E00ED70A5 /* UIView+Extensions.swift */,
+				464CB84B206A866E00ED70A5 /* UIApplication+Extensions.swift */,
+				464CB84C206A866E00ED70A5 /* UIAlertController+Extensions.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		464CB861206A8EED00ED70A5 /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				464CB862206A8EED00ED70A5 /* Reusable.swift */,
+				464CB863206A8EED00ED70A5 /* NibLoadable.swift */,
+				464CB864206A8EED00ED70A5 /* StoryboardInstantiable.swift */,
+			);
+			path = Protocols;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,9 +175,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				464CB8392069E20D00ED70A5 /* logo.png in Resources */,
 				464CB8312069E0FF00ED70A5 /* LaunchScreen.storyboard in Resources */,
 				464CB82E2069E0FF00ED70A5 /* Assets.xcassets in Resources */,
 				464CB82C2069E0FF00ED70A5 /* Main.storyboard in Resources */,
+				464CB841206A0C2F00ED70A5 /* bar.png in Resources */,
+				464CB845206A103C00ED70A5 /* action.jpeg in Resources */,
+				464CB83E206A0B4F00ED70A5 /* camera.png in Resources */,
+				464CB83D206A0B4F00ED70A5 /* message.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,8 +193,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				464CB857206A866E00ED70A5 /* UIApplication+Extensions.swift in Sources */,
+				464CB866206A8EED00ED70A5 /* NibLoadable.swift in Sources */,
+				464CB853206A866E00ED70A5 /* UIView+Extensions.swift in Sources */,
+				464CB858206A866E00ED70A5 /* UIAlertController+Extensions.swift in Sources */,
+				464CB867206A8EED00ED70A5 /* StoryboardInstantiable.swift in Sources */,
 				464CB8292069E0FF00ED70A5 /* ViewController.swift in Sources */,
 				464CB8272069E0FF00ED70A5 /* AppDelegate.swift in Sources */,
+				464CB860206A8E8A00ED70A5 /* TextViewController.swift in Sources */,
+				464CB865206A8EED00ED70A5 /* Reusable.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
