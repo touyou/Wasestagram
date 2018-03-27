@@ -59,6 +59,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4639DCC9206B096100CCF4D7 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				464CB844206A103C00ED70A5 /* action.jpeg */,
+				464CB8382069E20D00ED70A5 /* logo.png */,
+				464CB840206A0C2F00ED70A5 /* bar.png */,
+				464CB83B206A0B4F00ED70A5 /* camera.png */,
+				464CB83A206A0B4F00ED70A5 /* message.png */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
 		464CB81A2069E0FF00ED70A5 = {
 			isa = PBXGroup;
 			children = (
@@ -78,13 +90,9 @@
 		464CB8252069E0FF00ED70A5 /* Wasestagram */ = {
 			isa = PBXGroup;
 			children = (
+				4639DCC9206B096100CCF4D7 /* Assets */,
 				464CB861206A8EED00ED70A5 /* Protocols */,
 				464CB846206A866E00ED70A5 /* Extensions */,
-				464CB844206A103C00ED70A5 /* action.jpeg */,
-				464CB8382069E20D00ED70A5 /* logo.png */,
-				464CB840206A0C2F00ED70A5 /* bar.png */,
-				464CB83B206A0B4F00ED70A5 /* camera.png */,
-				464CB83A206A0B4F00ED70A5 /* message.png */,
 				464CB8262069E0FF00ED70A5 /* AppDelegate.swift */,
 				464CB8282069E0FF00ED70A5 /* ViewController.swift */,
 				464CB82A2069E0FF00ED70A5 /* Main.storyboard */,
