@@ -6,3 +6,7 @@
 - 起動したら実機登録をしてね！
 - アカウントの部分とBundle Identifierを自分のものに変えてあげよう
 - 実機で動かせば完了！！たくさん画像をつくってFacebookに投稿してね！
+
+## DEMO
+
+![](wasestagram.gif)
