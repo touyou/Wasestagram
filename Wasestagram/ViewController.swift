@@ -49,6 +49,8 @@ class ViewController: UIViewController {
         }
     }
     
+    @IBOutlet weak var label: UILabel!
+    
     
     var isSelectIcon: Bool = true
     var text: String!
@@ -134,6 +136,7 @@ extension ViewController: UINavigationControllerDelegate, UIImagePickerControlle
             smallIconImageView.image = info[UIImagePickerControllerOriginalImage] as? UIImage
         } else {
             mainImageView.image = info[UIImagePickerControllerOriginalImage] as? UIImage
+            label.isHidden = true
         }
     }
 }

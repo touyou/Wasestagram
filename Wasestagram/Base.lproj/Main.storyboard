@@ -237,6 +237,7 @@
                     <connections>
                         <outlet property="hashTextField" destination="BBa-rg-nnI" id="nJa-Fh-agF"/>
                         <outlet property="iconImageView" destination="o1d-h2-cHt" id="VNQ-H4-zf9"/>
+                        <outlet property="label" destination="5sO-NG-dRA" id="RZM-Rx-Q4U"/>
                         <outlet property="likeTextField" destination="9oR-JW-ymn" id="1c9-Vf-ogU"/>
                         <outlet property="mainImageView" destination="PZa-pZ-A1u" id="EbF-Bt-7kv"/>
                         <outlet property="nameTextField" destination="ow4-TX-N1O" id="3DA-L2-vEC"/>
